@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {}
+    "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {}
   },
   "projects": {
-    "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {
+    "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+        "projectUniqueName": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
         "projectName": "Api.Uno",
-        "projectPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+        "projectPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
         "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\obj\\",
+        "outputPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

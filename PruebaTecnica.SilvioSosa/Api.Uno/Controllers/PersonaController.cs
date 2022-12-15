@@ -44,6 +44,6 @@ namespace Api.Uno.Controllers
         {
             return await connection.QueryAsync<Persona>("SELECT * FROM Persona");
         }
-
+        //
     }
 }

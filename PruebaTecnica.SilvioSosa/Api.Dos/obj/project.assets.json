@@ -797,11 +797,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
+      "projectUniqueName": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
       "projectName": "Api.Dos",
-      "projectPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
+      "projectPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
       "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\obj\\",
+      "outputPath": "C:\\Users\\silvi\\OneDrive\\Desktop\\Nueva carpeta\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
