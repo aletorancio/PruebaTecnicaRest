@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+      "projectUniqueName": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
       "projectName": "Api.Uno",
-      "projectPath": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+      "projectPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
       "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\obj\\",
+      "outputPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Uno\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

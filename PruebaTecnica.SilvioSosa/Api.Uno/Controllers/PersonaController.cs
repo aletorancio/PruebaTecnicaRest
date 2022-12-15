@@ -22,14 +22,14 @@ namespace Api.Uno.Controllers
             return Ok(personas);
         }
 
-        [HttpGet("PersonaId")]
+        /*[HttpGet("PersonaId")]
         public async Task<ActionResult<Persona>> GetPersona(int personaId)
         {
             using var conexion = new SqlConnection(_config.GetConnectionString("DefaultConnection"));
             var persona = await conexion.QueryFirstAsync<Persona>("SELECT * FROM Persona WHERE id = @Id",
                 new {Id = personaId});
             return Ok(persona);
-        }
+        }*/
 
         [HttpPost("Agregar")]
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {}
+    "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj": {}
   },
   "projects": {
-    "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj": {
+    "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+        "projectUniqueName": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
         "projectName": "Api.Dos",
-        "projectPath": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Uno\\Api.Uno.csproj",
+        "projectPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\Api.Dos.csproj",
         "packagesPath": "C:\\Users\\silvi\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\PruebaTecnica.SilvioSosa\\Api.Dos\\obj\\",
+        "outputPath": "D:\\C#\\PruebaTecnicaRest\\PruebaTecnica.SilvioSosa\\Api.Dos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,14 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
